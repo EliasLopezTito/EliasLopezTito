@@ -13,11 +13,14 @@ Me importa escribir código mantenible, entendible y alineado a buenas práctica
 ### Portfolio: https://brdhanani.github.io
 
 <br />
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenk4ODRhemZlZjYxa3FmYzlseHo5dDB1cjR0NXd3czc2ZWw4cTh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   
 ### 👨‍💻 Lenaguajes y Framework
 
-<br />
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,php,alpinejs,postman,vue,jquery,tailwind,bootstrap,css,mysql,postgres,git,github,stackoverflow&perline=5)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,laravel,php,alpinejs,postman,vue,jquery,tailwind,bootstrap,css,mysql,postgres,git,github,stackoverflow&perline=5" align="left" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenk4ODRhemZlZjYxa3FmYzlseHo5dDB1cjR0NXd3czc2ZWw4cTh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 50%" />
+</div>
+
+<br clear="both"/>
 
 
