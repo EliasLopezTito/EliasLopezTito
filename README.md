@@ -1,83 +1,64 @@
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-![image](https://imgur.com/a/UYOHiE5)
+![Web-developer](https://private-user-images.githubusercontent.com/137320146/547245190-207f6b01-c2b5-4dd0-a2c7-d364b624d4cf.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA2NTg5OTcsIm5iZiI6MTc3MDY1ODY5NywicGF0aCI6Ii8xMzczMjAxNDYvNTQ3MjQ1MTkwLTIwN2Y2YjAxLWMyYjUtNGRkMC1hMmM3LWQzNjRiNjI0ZDRjZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwOVQxNzM4MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTg0MDE0YjEyNGYwY2U2OGM5NmQxYzQyMTcwN2ExYTc2ODhiOTRlNzhjYzBhNDBmM2FlMDEzNzUyY2E0OGJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.p3h8MG5bhaj2mcrLv-cRbfylT-37eHR33k55Q3XBblE)
+    
+## Bienvenidos a todos  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+### Hola soy Elias Lopez Tito soy desarrollador Full Stack.
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+### Portfolio: https://brdhanani.github.io
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+<a href="https://twitter.com/dhanani_brijesh">
+  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/singer_brijesh_dhanani">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://youtu.be/X_zgw9GojSc">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
--  **Finally, I'm a football-watching frenzy ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+<br />
+<br />
 
-### Here's my github README stats:
-
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
-
-### Some of my public repositories (not forks):
-
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
-
-#### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
-### Some awesome repos that people and organizations have made:
-
-- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
-- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
-- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
-- **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
-- **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
-
-### Organizations that I have contributed to:
-
-[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
-[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
-[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
-[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
-[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
-[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
-[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
-
-### Here's the languages that I am currently working on:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-### Here's my Codewars stats:
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=EliasLopezTito" />
+  
+### 👨‍💻 Lenaguajes y Framework
 
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
+<br />
 
-### Thank you for visiting my profile 🤓 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-### Feel free to fork and 🌟 this repo!!
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-------
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-Credit : [AvidCoder101](https://github.com/AvidCoder101)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-Last Edited On: 31/08/2021
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+
+
+-----
