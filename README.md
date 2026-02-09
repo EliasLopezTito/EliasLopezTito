@@ -18,7 +18,7 @@ Me importa escribir código mantenible, entendible y alineado a buenas práctica
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,laravel,php,alpinejs,postman,vue,jquery,tailwind,bootstrap,css,mysql,postgres,git,github,stackoverflow&perline=5" align="left" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenk4ODRhemZlZjYxa3FmYzlseHo5dDB1cjR0NXd3czc2ZWw4cTh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 45%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIzeG5laGFydmJqODg5MTI0NnRoemJhMjNmODJ5ZmVlZWtmN3VyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" align="right" style="width: 34%" />
 </div>
 
 <br clear="both"/>
